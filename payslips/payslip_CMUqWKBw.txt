@@ -1,0 +1,15 @@
+
+
+This is the payslip for CMU AFrica employees
+Employee name: kagawa shinji            
+Employee email: kagawa.shinji@onepeople.org 
+Job Level: Intern                   
+_________________________________________________________
+Date:                     2023-10-31 01:21:55
+Base salary:              1200
+Tax:                      30.0
+Allowance:                5.0
+Bonus:                    1.0
+Net salary:               566.0
+_________________________________________________________
+For more details you can contact HR manager at info@company.org

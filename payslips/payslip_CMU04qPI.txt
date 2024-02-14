@@ -1,0 +1,15 @@
+
+
+This is the payslip for CMU AFrica employees
+Employee name: nshuti Ange              
+Employee email: nshuti.ange@onepeople.org 
+Job Level: Director                 
+_________________________________________________________
+Date:                     2023-11-01 17:27:58
+Base Salary:              446
+Tax:                      11.15
+Allowance:                1.8583333333333334
+Bonus:                    0.37
+Net Salary:               735.22
+_________________________________________________________
+For more details you can contact HR manager at info@company.org

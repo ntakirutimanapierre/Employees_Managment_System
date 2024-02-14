@@ -1,0 +1,15 @@
+
+
+This is the payslip for CMU AFrica employees
+Employee name: John Anet                
+Employee email: john.anet@onepeople.org   
+Job Level: Manager                  
+_________________________________________________________
+Date:                     2023-10-31 00:17:37
+Base salary:              3400
+Tax:                      85.0
+Allowance:                14.166666666666666
+Bonus:                    2.83
+Net salary:               4663.663333333333
+_________________________________________________________
+For more details you can contact HR manager at info@company.org

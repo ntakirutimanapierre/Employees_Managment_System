@@ -1,0 +1,7 @@
+@echo off
+"C:\\Python\\python.exe" "tester.py"
+pause
+
+@echo off
+C:/Users/Admin/anaconda3/python.exe "c:/Users/Admin/Desktop/CMU Official Docs/Fall 1/Programing for data analytics/Ass 2/Employee-Management-System/tester.py"
+pause

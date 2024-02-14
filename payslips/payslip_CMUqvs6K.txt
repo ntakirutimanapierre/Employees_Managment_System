@@ -1,0 +1,15 @@
+
+
+This is the payslip for CMU AFrica employees
+Employee name: jason mugisha            
+Employee email: jason.mugisha@onepeople.org 
+Job Level: Manager                  
+_________________________________________________________
+Date:                     2023-10-31 21:34:20
+Base salary:              4500
+Tax:                      112.5
+Allowance:                18.75
+Bonus:                    3.75
+Net salary:               6618.75
+_________________________________________________________
+For more details you can contact HR manager at info@company.org
